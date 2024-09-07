@@ -1,6 +1,7 @@
 # ImgstoPdf
 
 `ImgstoPdf` is a Python application that provides a simple graphical interface for searching and downloading images from an open-source photo database using an API. After fetching the images based on a user-defined keyword, the application converts the images into a single PDF file. The GUI also includes a loading bar to display the progress of the image download.
+
 <img width="425" alt="Screenshot 2024-09-06 at 9 35 05 PM" src="https://github.com/user-attachments/assets/c377ec42-da50-4220-8895-e729c3a7ff12">
 
 
