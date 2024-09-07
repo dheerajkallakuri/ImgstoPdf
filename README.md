@@ -1,4 +1,4 @@
-# ImgstoPdf: Converting set of images to pdf
+# ImgstoPdf: Converting a set of images to pdf
 
 `ImgstoPdf` is a Python application that provides a simple graphical interface for searching and downloading images from an open-source photo database using an API. After fetching the images based on a user-defined keyword, the application converts the images into a single PDF file. The GUI also includes a loading bar to display the progress of the image download.
 
@@ -16,7 +16,7 @@ This repository contains the following components:
 
 3. **`image_fetcher.py`**: This Python script handles API calls to Unsplash to fetch images based on the provided keyword. It saves the downloaded images into a specified folder.
 
-4. **`pdf_converter.py`**: This script takes the images from the specified folder and combines them into a single PDF file.
+4. **`pdf_converter.py`**: This script takes the images from the specified folder stores them in an array data structure and combines them into a single PDF file.
 
 5. **`image_checker.py`**: This utility script checks the types of images downloaded via API calls. It is useful for debugging and verifying the content of the downloaded images.
 
